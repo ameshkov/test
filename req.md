@@ -26,7 +26,8 @@
     * [Firewall: global defaults](#firewall-global-defaults)
     * [Apps & Statistics](#apps-statistics)
     * [App Details] (#app-details)
-* [License Status (TBD)] (#license-status)
+* [What is premium (TBD)] (#what-is-premium)
+* [Manage License (TBD)] (#manage-license)
 * [Send Feedback (TBD)] (#send-feedback)
 * [About Adguard (TBD)] (#about-adguard)
 
